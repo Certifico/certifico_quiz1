@@ -58,7 +58,9 @@ public class Certificoquiz1 {
     }
     
     public static void number2(){
-    ////Sorry Sir wako ka study ani
+        System.out.println("Set # of Array: ");
+        int n = scn.nextInt();
+        
     }
     
     public static void number3(){
