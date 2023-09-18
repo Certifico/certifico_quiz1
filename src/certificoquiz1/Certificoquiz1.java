@@ -22,7 +22,7 @@ public class Certificoquiz1 {
 }
     public static void displayniSiya(){
         System.out.println("***************************************");
-        System.out.println("* KHIANNE QUIZ 1, Part 2: Code Time !!*");
+        System.out.println("* KHIANNE QUIZ 1, Part 2: Code Timerr !!*");
         System.out.println("***************************************");
     }
     public static void TheMenu(){
